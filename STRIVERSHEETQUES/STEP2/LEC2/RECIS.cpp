@@ -32,7 +32,7 @@ class Solution
             return;
         }
         if(arr[i]<arr[i-1]){
-            swap(arr[i],arr[i-1]);
+            swap(arr[i],arr[i-1]);  
         }
         else{
             return;
